@@ -1,6 +1,6 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Create By M.A.F.PRATAMA.
+   * Contact Me on wa.me/6281273677810
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6281273677810','84796102942','84358850353']
+global.premium = ['6281273677810']
+global.packname = '© PRATAMA BOT'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
